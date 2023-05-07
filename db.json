@@ -1,0 +1,310 @@
+{
+    "quotes": [
+        {
+            "no": 1,
+            "Quote_english": "Praise be to Allah, the Lord of the Universe",
+            "Quote_arabic": "ٱلْحَمْدُ ٱللَّهِ ٱلرَّحْمَـٰنِ ٱلرَّحِيمِ",
+            "Book": "Al-Quran 1:2"
+        },
+        {
+            "no": 2,
+            "Quote_english": "Indeed the only guidance is Allah’s Guidance!",
+            "Quote_arabic": "قُلۡ اِنَّ هُدَى اللّٰهِ هُوَ الۡهُدٰى",
+            "Book": "Al-Quran 6:7"
+        },
+        {
+            "no": 3,
+            "Quote_english": "And declare (O Muhammad) that [the Quran] is a guidance and healing for the believers.",
+            "Quote_arabic": "قُلْ هُوَ لِلَّذِينَ آمَنُوا هُدًى وَشِفَاءٌ",
+            "Book": "Al-Quran 41:40"
+        },
+        {
+            "no": 4,
+            "Quote_english": "A guidance for mankind and clear evidence and discrimination (between wrong).",
+            "Quote_arabic": "هُدًى لِّلنَّاسِ وَ بَيِّنٰتٍ مِّنَ الۡهُدٰى وَالۡفُرۡقَانِۚ",
+            "Book": "Al-Quran 2:185"
+        },
+        {
+            "no": 5,
+            "Quote_english": "Guide us to the straight path",
+            "Quote_arabic": "ٱهْدِنَا ٱلصِّرَٰطَ ٱلْمُسْتَقِيمَ",
+            "Book": "Al-Quran 1:6"
+        },
+        {
+            "no": 6,
+            "Quote_english": "The path of those upon whom You have bestowed favor, not (the path) of that evoked [You’rer] anger or of those who are astray",
+            "Quote_arabic": "صِرَٰطَ ٱلَّذِينَ أَنْعَمْتَ عَلَيْهِمْ غَيْرِ ٱلْمَغْضُوبِ عَلَيْهِمْ وَلَا ٱلضَّآلِّينَ",
+            "Book": "Al-Quran 1:7"
+        },
+        {
+            "no": 7,
+            "Quote_english": "And whoever puts all his trust in Allah. He will be enough for him",
+            "Quote_arabic": " وَمَنْ يَتَوَكَّلْ عَلَى اللَّهِ فَهُوَ حَسْبُهُ",
+            "Book": "Al-Quran 65:3"
+        },
+        {
+            "no": 8,
+            "Quote_english": "Then you have taken a decision, put your trust in Allah. Certainly, Allah loves those who put their trust (in Him)",
+            "Quote_arabic": "فَاِذَا عَزَمۡتَ فَتَوَكَّلۡ عَلَى اللّٰهِ​ؕ اِنَّ اللّٰهَ يُحِبُّ الۡمُتَوَكِّلِيۡنَ",
+            "Book": "Al-Quran 3:159"
+        },
+        {
+            "no": 9,
+            "Quote_english": "I will be with those who have patience.",
+            "Quote_arabic": "إِنَّ ٱللَّهَ مَعَ ٱلصَّبِرِينَ",
+            "Book": "Al-Quran 2:153"
+        },
+        {
+            "no": 10,
+            "Quote_english": "So endure patiently, with beautiful patience.",
+            "Quote_arabic": "فَٱصْبِرْ صَبْرًا جَمِيلًا",
+            "Book": "Al-Quran 70:5"
+        },
+        {
+            "no": 11,
+            "Quote_english": "خُذِ ٱلْعَفْوَ وَأْمُرْ بِٱلْعُرْفِ وَأَعْرِضْ عَنِ ٱلْجَهِلِينَ",
+            "Quote_arabic": "Be tolerant and command what is right: pay no attention to foolish people.",
+            "Book": "Al-Quran 7:199"
+        },
+        {
+            "no": 12,
+            "Quote_english": "Seek forgiveness of your Lord and repent to Him.",
+            "Quote_arabic": "وَّاَنِ اسۡتَغۡفِرُوۡا رَبَّكُمۡ ثُمَّ تُوۡبُوۡۤا اِلَيۡه",
+            "Book": "Al-Quran 11:3"
+        },
+        {
+            "no": 13,
+            "Quote_english": "Our Lord! Forgive my parents and me, and (all) the believers on the Day when the reckoning will be established",
+            "Quote_arabic": "رَبَّنَا اغْفِرْ لِي وَلِوَالِدَيَّ وَلِلْمُؤْمِنِينَ يَوْمَ يَقُومُ الْحِسَاب",
+            "Book": "Al-Quran 40:41"
+        },
+        {
+            "no": 14,
+            "Quote_english": "And Allah would not punish them while they seek forgiveness.",
+            "Quote_arabic": "وَمَا كَانَ اللَّهُ مُعَذِّبَهُمْ وَهُمْ يَسْتَغْفِرُونَ",
+            "Book": ""
+        },
+        {
+            "no": 15,
+            "Quote_english": "And Allah would not punish them while they seek forgiveness.",
+            "Quote_arabic": "وَمَا كَانَ اللَّهُ مُعَذِّبَهُمْ وَهُمْ يَسْتَغْفِرُونَ",
+            "Book": "Al-Quran "
+        },
+        {
+            "no": 16,
+            "Quote_english": "If you would count up the favors of Allah, never would you be able to number them: for Allah is Oft-Forgiving, Most Merciful.",
+            "Quote_arabic": "وَإِن تَعُدُّوا۟ نِعْمَةَ ٱللَّهِ لَا تُحْصُوهَآ ۗ إِنَّ ٱللَّهَ لَغَفُورٌ رَّحِيمٌ",
+            "Book": "Al-Quran 16:18"
+        },
+        {
+            "no": 17,
+            "Quote_english": "And whatever you have of favor, it is from Allah.",
+            "Quote_arabic": "وَمَا بِكُمْ مِنْ نِعْمَةٍ فَمِنَ اللَّهِ",
+            "Book": "Al-Quran 16:53"
+        },
+        {
+            "no": 18,
+            "Quote_english": "So which of the favors of your Lord would you deny”",
+            "Quote_arabic": "فَبِاَىِّ اٰلَاۤءِ رَبِّكُمَا تُكَذِّبٰنِۙ",
+            "Book": "Al-Quran 55:74"
+        },
+        {
+            "no": 19,
+            "Quote_english": "Allah does not burden a soul beyond that it can bear.",
+            "Quote_arabic": "ا يُكَلِّفُ ٱللَّهُ نَفْسًا إِلَّا وُسْعَهَا لَهَا مَا كَسَبَتْ",
+            "Book": "Al-Quran 2:286"
+        },
+        {
+            "no": 20,
+            "Quote_english": "Behold, all bounty is in the hand of Allah ; He grants it unto whom He wills: for Allah is infinite, all-knowing",
+            "Quote_arabic": " إِنَّ ٱلْفَضْلَ بِيَدِ ٱللَّهِ يُؤْتِيهِ مَن يَشَآءُ وَٱللَّهُ وَٰسِعٌ عَلِيمٌ",
+            "Book": "Al-Quran 3:73"
+        },
+        {
+            "no": 21,
+            "Quote_english": "Allah is enough for us; and how excellent a guardian is He!",
+            "Quote_arabic": "سْبُنَا ٱللَّهُ وَنِعْمَ ٱلْوَكِيلُ",
+            "Book": "Al-Quran 3:173"
+        },
+        {
+            "no": 22,
+            "Quote_english": "And unto everyone who is conscious of Allah , He [always] grants a way out [of unhappiness",
+            "Quote_arabic": "مَن كَانَ يُؤْمِنُ بِٱللَّهِ وَٱلْيَوْمِ ٱلْـَٔاخِرِ وَمَن يَتَّقِ ٱللَّهَ يَجْعَل لَّهُۥ مَخْرَجًا",
+            "Book": "Al-Quran 65:2"
+        },
+        {
+            "no": 23,
+            "Quote_english": "and their Lord gives them the good news of His mercy and pleasure, Gardens where they will have lasting bliss",
+            "Quote_arabic": "يُبَشِّرُهُمْ رَبُّهُم بِرَحْمَةٍ مِّنْهُ وَرِضْوَٰنٍ وَجَنَّـٰتٍ لَّهُمْ فِيهَا نَعِيمٌ مُّقِيمٌ",
+            "Book": "Al-Quran 9:21"
+        },
+        {
+            "no": 24,
+            "Quote_english": "We cause Our grace to alight upon whomever We will; and We do not fail to requite the doers of good",
+            "Quote_arabic": "نُصِيبُ بِرَحْمَتِنَا مَن نَّشَآءُ وَلَا نُضِيعُ أَجْرَ ٱلْمُحْسِنِينَ",
+            "Book": "Al-Quran 12:56"
+        },
+        {
+            "no": 25,
+            "Quote_english": "As for those who believe and do good, We will certainly absolve them of their sins, and reward them according to the best of what they used to do",
+            "Quote_arabic": "وَٱلَّذِينَ ءَامَنُوا۟ وَعَمِلُوا۟ ٱلصَّـٰلِحَـٰتِ لَنُكَفِّرَنَّ عَنْهُمْ سَيِّـَٔاتِهِمْ وَلَنَجْزِيَنَّهُمْ أَحْسَنَ ٱلَّذِى كَانُوا۟ يَعْمَلُونَ",
+            "Book": "Al-Quran 29:7"
+        },
+        {
+            "no": 26,
+            "Quote_english": "O people, assuredly Allah’s promise is true. So let the life of the world not delude you, and let not the Deluder delude you concerning Allah",
+            "Quote_arabic": "يَـٰٓأَيُّهَا ٱلنَّاسُ إِنَّ وَعْدَ ٱللَّهِ حَقٌّ فَلَا تَغُرَّنَّكُمُ ٱلْحَيَوٰةُ ٱلدُّنْيَا وَلَا يَغُرَّنَّكُم بِٱللَّهِ ٱلْغَرُورُ",
+            "Book": "Al-Quran 35:5"
+        },
+        {
+            "no": 27,
+            "Quote_english": "and My Mercy encompasses everything",
+            "Quote_arabic": "وَرَحْمَتِي وَسِعَتْ كُلَّ شَيْءٍ",
+            "Book": "Al-Quran 7:156"
+        },
+        {
+            "no": 28,
+            "Quote_english": "Still, there are some who take others as Allah’s equal—they love them as they should love Allah—but the believers love Allah even more.",
+            "Quote_arabic": "وَمِنَ النَّاسِ مَن يَتَّخِذُ مِن دُونِ اللَّهِ أَندَادًا يُحِبُّونَهُمْ كَحُبِّ اللَّهِ ۖ وَالَّذِينَ آمَنُوا أَشَدُّ حُبًّا لِّلَّه",
+            "Book": "Al-Quran 2:165"
+        },
+        {
+            "no": 29,
+            "Quote_english": "And if you should count the favours of Allah, you would never be able to number them. Indeed, Allah is Forgiving and Merciful",
+            "Quote_arabic": "وَإِن تَعُدُّوا نِعْمَةَ اللَّهِ لَا تُحْصُوهَا ۗ إِنَّ اللَّهَ لَغَفُورٌ رَّحِيمٌ",
+            "Book": "Al-Quran 16:18"
+        },
+        {
+            "no": 30,
+            "Quote_english": "Your spouses are a garment (comfort, chastity, and protection) for you as you are for them",
+            "Quote_arabic": "هُنَّ لِبَاسٌ۬ لَّكُمۡ وَأَنتُمۡ لِبَاسٌ۬ لَّهُنَّ‌",
+            "Book": "Al-Quran 2:187"
+        },
+        {
+            "no": 31,
+            "Quote_english": "Whoever ascribes to me what I have not said then let him occupy his seat in Hell-fire!",
+            "Quote_arabic": "من قال عليّ ما لم أقل فليتبوأ مقعده من النار",
+            "Book": "Sahih al-Bukhari"
+        },
+        {
+            "no": 32,
+            "Quote_english": "Whoever treads a path seeking knowledge, Allah will make easy for him the path to Paradise",
+            "Quote_arabic": "مَنْ سَلَكَ طَرِيقًا يَلْتَمِسُ فِيهِ عِلْمًا سَهَّلَ اللَّهُ لَهُ طَرِيقًا إِلَى الْجَنَّةِ",
+            "Book": "Sahih al-Bukhari "
+        },
+        {
+            "no": 33,
+            "Quote_english": "When Allah wishes good for someone, He bestows upon him the understanding of Deen.",
+            "Quote_arabic": "من يرد الله به خيرًا يفقه في الدين",
+            "Book": "Sahih al-Bukhari"
+        },
+        {
+            "no": 34,
+            "Quote_english": "Allah makes the way to Jannah easy for him who treads the path in search of knowledge.",
+            "Quote_arabic": "ومن سلك طريقًا يلتمس فيه علما سهل الله له به طريقًا إلى الجنة",
+            "Book": "Sahih Muslim "
+        },
+        {
+            "no": 35,
+            "Quote_english": "He who goes forth in search of knowledge is considered as struggling in the Cause of Allah until he returns.",
+            "Quote_arabic": "من خرج في طلب العلم، فهو في سبيل الله حتى يرجع",
+            "Book": "Al-Tamhidi"
+        },
+        {
+            "no": 36,
+            "Quote_english": "A believer never satisfies doing good until he reaches Jannah.",
+            "Quote_arabic": "لن يشبع مؤمن من خير حتى يكون منتهاه الجنة",
+            "Book": "Al-Tamhidi"
+        },
+        {
+            "no": 37,
+            "Quote_english": "Get married, for I am heartened by your great numbers before the nations (of other Prophets).",
+            "Quote_arabic": "تَزَوَّجُوا فَإِنِّي مُكَاثِرٌ بِكُمُ الأُمَمَ",
+            "Book": "Shu’ab Al-Iman"
+        },
+        {
+            "no": 38,
+            "Quote_english": "None of you truly believes until he loves for his brother what he loves for himself.",
+            "Quote_arabic": "لا يُؤمِنُ أحَدُكُمْ حَتَّى يُحِبَّ لأَخِيهِ مَا يُحِبُّ لِنَفْسِهِ",
+            "Book": "Sahih Al-Bukhari"
+        },
+        {
+            "no": 39,
+            "Quote_english": "Actions are judged according to intentions.",
+            "Quote_arabic": "إنما الأعمال بالنيات",
+            "Book": " Sahih Bukhari"
+        },
+        {
+            "no": 40,
+            "Quote_english": "The best among you are those who are best to their wives.",
+            "Quote_arabic": "خيركم خيركم لأهله، وأنا خيركم لأهلي",
+            "Book": "Sunan Ibn Majah"
+        },
+        {
+            "no": 41,
+            "Quote_english": "None of you truly believes until he loves for his brother what he loves for himself.",
+            "Quote_arabic": "لا يؤمن أحدكم حتى يحب لأخيه ما يحب لنفسه",
+            "Book": "Sahih Muslim"
+        },
+        {
+            "no": 42,
+            "Quote_english": "Modesty is part of faith.",
+            "Quote_arabic": "الحياء شعبة من الإيمان",
+            "Book": "Sunan Ibn Majah"
+        },
+        {
+            "no": 43,
+            "Quote_english": "The seeking of knowledge is obligatory upon every Muslim.",
+            "Quote_arabic": "طلب العلم فريضة على كل مسلم",
+            "Book": " Sunan Ibn Majah"
+        },
+        {
+            "no": 44,
+            "Quote_english": "The best of you are those who are best in conduct.",
+            "Quote_arabic": "خيركم خيركم أخلاقا",
+            "Book": "Sahih Bukhari"
+        },
+        {
+            "no": 45,
+            "Quote_english": "The strong man is not the one who is good at wrestling, but the strong man is the one who controls himself in anger.",
+            "Quote_arabic": "لَيْسَ الشَّدِيدُ بِالصُّرَعَةِ، إِنَّمَا الشَّدِيدُ الَّذِي يَمْلِكُ نَفْسَهُ عِنْدَ الْغَضَبِ",
+            "Book": "Sunan Ibn Majah"
+        },
+        {
+            "no": 46,
+            "Quote_english": "Verily, deeds are only with intentions",
+            "Quote_arabic": "إنما الأعمال بالنيات",
+            "Book": " Sahih Al-Bukhari"
+        },
+        {
+            "no": 47,
+            "Quote_english": "The best among you are those who have the best manners and character.",
+            "Quote_arabic": "خيركم من تعلم القرآن وعلمه",
+            "Book": "Sahih Al-Bukhari"
+        },
+        {
+            "no": 48,
+            "Quote_english": "The best among you is the one who learns the Quran and teaches it.",
+            "Quote_arabic": "خيركم من تعلم القرآن وعلمه",
+            "Book": "Sahih Al-Bukhari"
+        },
+        {
+            "no": 49,
+            "Quote_english": "A good word is charity.",
+            "Quote_arabic": "الكلمة الطيبة صدقة",
+            "Book": "Sahih al-Bukhari "
+        },
+        {
+            "no": 50,
+            "Quote_english": "Allah is kind and loves kindness in all things",
+            "Quote_arabic": "إن الله رفيق يحب الرفق في الأمور كلها",
+            "Book": "Sunan Abu Dawud"
+        },
+        {
+            "no": 51,
+            "Quote_english": "The best supplication is that which is made during the night prayer.",
+            "Quote_arabic": "أفضل الدعاء دعاء الليل",
+            "Book": "Sunan Ibn Majah"
+        }
+    ]
+}
